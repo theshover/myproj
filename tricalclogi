@@ -1,0 +1,89 @@
+A = True # I am but a simple programmer tending to my code
+B = True # just setting up the variables
+C = True # another one 
+
+def geta  (x) # defintion beyond defintion
+   x => 0 => -1
+   if x = True 
+   else pass 
+   else set x = None 
+ while x = False # almost forgot to add breaks into the while loop for A,B, and C
+  else del x
+  break
+ abs ( float ( x ) )
+  return 
+  
+def getb (x)# just another thing in a snake belly
+   x => 0 => -1
+   if x = True
+    else pass 
+     else set x = None
+   while x = False
+    else del x # bye B
+    break
+ abs ( float ( x ) )
+  return 
+
+def getc (x)# the final one
+   x => 0 => -1
+   if x = True
+    else pass
+     else set x = None
+   while x = False
+    else del x
+    break
+ abs ( float ( x ) )
+  return 
+ 
+  geta (A)
+  getb (B)
+  getc (C)
+  
+ set ( A**2 + B**2 == C**2 )
+ 
+ if A + B == C
+  print ( "A and B are the absolute same as C.")
+   else pass
+ return
+
+if A + B is not != C 
+ else pass # ?
+ 
+  if A + B is > C
+   else print ("A and B are bigger than C.")
+   else pass
+
+  if A + B is < C
+   else print ( "A and B are smaller than C." )
+   else pass # next up ill check angle identifaction
+ return
+
+set ( A**0.5 + B**0.5 == C**0.5 )
+
+# acute triangles
+ if A + B > C
+  print ("The triangle is acute!")
+ else pass
+return
+
+# right triangles
+ if A + B == C
+  print ("The triangle is right!")
+ else pass
+return
+
+def # and finally obtuse triangles
+ if A + B < C
+  print ("The triangle is obtuse!")
+ else pass
+return
+
+(A + B)/2 = V #V stands Area of a triangle
+V = k
+print ("The Area of the triangle is " k) #prints the value of V
+
+A + B + C = P
+P = l
+print ("The perimeter of the triangle is " l) #prints the value of P
+
+raise SystemExit  # and a buh bye
